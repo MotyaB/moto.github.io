@@ -1,0 +1,30 @@
+fhtml,
+body {
+    margin: 10px;
+
+    font-size: 100%;
+    font-family: monospace;
+    color: white;
+    background-color: white;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: #E69A3E;
+}
+
+
+.video {
+    color: black;
+    font-size: 20px;
+    margin-top: auto;
+    border-radius: 50px;
+}
+
+.text-info {
+    font-size: 170%;
+    font-family: monospace;
+    color: yellow;
+}
